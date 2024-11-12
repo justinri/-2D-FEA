@@ -1,2 +1,2 @@
 # 2D Finite Element Code
-Code written in Octave to solve 2D finite element problems and generates VTK files for post-processing the results visually in ParaView. The code solves problems involving isotropic materials and lets you select from a variety of elements.
+The code, written in Octave, solves 2D finite element problems and generates VTK files for visual post-processing in ParaView. It handles isotropic material problems and allows you to select from a variety of element types.
